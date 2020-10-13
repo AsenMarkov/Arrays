@@ -2,11 +2,11 @@
 
 namespace Arrays
 {
-    class Program
+    class General
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! My name is Asen Markov");
+            Console.WriteLine("Hello World!");
         }
     }
 }
