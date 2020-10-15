@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{89EDE509-C661-4369-BC7E-D17712F6D2BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexMultyBy5", "Arrays\IndexMultyBy5.csproj", "{89EDE509-C661-4369-BC7E-D17712F6D2BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareArrays", "CompareArrays\CompareArrays.csproj", "{99B414BD-54C3-467A-8BAC-D2BAF42BCAD6}"
 EndProject
