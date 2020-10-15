@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Arrays
+namespace CompareTwoCharArrays
 {
-    class General
+    class CompareTwoCharArrays
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
