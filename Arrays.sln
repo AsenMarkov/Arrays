@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareArrays", "CompareArr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTwoCharArrays", "CompareTwoCharArrays\CompareTwoCharArrays.csproj", "{BAFF0C5A-5ABB-4F34-8E37-45578B7D245A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSequenceOfSameElements", "LongestSequenceOfSameElements\LongestSequenceOfSameElements.csproj", "{35B03EB2-4273-49F1-A90F-4123CFC12E43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BAFF0C5A-5ABB-4F34-8E37-45578B7D245A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAFF0C5A-5ABB-4F34-8E37-45578B7D245A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAFF0C5A-5ABB-4F34-8E37-45578B7D245A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B03EB2-4273-49F1-A90F-4123CFC12E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B03EB2-4273-49F1-A90F-4123CFC12E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B03EB2-4273-49F1-A90F-4123CFC12E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B03EB2-4273-49F1-A90F-4123CFC12E43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
