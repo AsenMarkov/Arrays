@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexMultyBy5", "Arrays\IndexMultyBy5.csproj", "{89EDE509-C661-4369-BC7E-D17712F6D2BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareArrays", "CompareArrays\CompareArrays.csproj", "{99B414BD-54C3-467A-8BAC-D2BAF42BCAD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareArrays", "CompareArrays\CompareArrays.csproj", "{99B414BD-54C3-467A-8BAC-D2BAF42BCAD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTwoCharArrays", "CompareTwoCharArrays\CompareTwoCharArrays.csproj", "{BAFF0C5A-5ABB-4F34-8E37-45578B7D245A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareTwoCharArrays", "CompareTwoCharArrays\CompareTwoCharArrays.csproj", "{BAFF0C5A-5ABB-4F34-8E37-45578B7D245A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSequenceOfSameElements", "LongestSequenceOfSameElements\LongestSequenceOfSameElements.csproj", "{35B03EB2-4273-49F1-A90F-4123CFC12E43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSequenceOfSameElements", "LongestSequenceOfSameElements\LongestSequenceOfSameElements.csproj", "{35B03EB2-4273-49F1-A90F-4123CFC12E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestGrowingSequnce", "LongestGrowingSequnce\LongestGrowingSequnce.csproj", "{B8FD827D-CBD4-43DB-9FCA-CD25A20D8602}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{35B03EB2-4273-49F1-A90F-4123CFC12E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35B03EB2-4273-49F1-A90F-4123CFC12E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35B03EB2-4273-49F1-A90F-4123CFC12E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8FD827D-CBD4-43DB-9FCA-CD25A20D8602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FD827D-CBD4-43DB-9FCA-CD25A20D8602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FD827D-CBD4-43DB-9FCA-CD25A20D8602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FD827D-CBD4-43DB-9FCA-CD25A20D8602}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
