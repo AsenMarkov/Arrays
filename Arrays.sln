@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestGrowingSequnce", "Lo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfLongestSeq", "SumOfLongestSeq\SumOfLongestSeq.csproj", "{B9EE1A2A-9079-4B31-A477-8BABFACDD345}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoldingAndSummingArray", "FoldingAndSummingArray\FoldingAndSummingArray.csproj", "{0214D9F2-D758-42CF-8F7A-AE3752C8FAAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoldingAndSummingArray", "FoldingAndSummingArray\FoldingAndSummingArray.csproj", "{0214D9F2-D758-42CF-8F7A-AE3752C8FAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayRotation", "ArrayRotation\ArrayRotation.csproj", "{8367C768-2968-4385-B5A8-64827ABD82E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0214D9F2-D758-42CF-8F7A-AE3752C8FAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0214D9F2-D758-42CF-8F7A-AE3752C8FAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0214D9F2-D758-42CF-8F7A-AE3752C8FAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8367C768-2968-4385-B5A8-64827ABD82E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8367C768-2968-4385-B5A8-64827ABD82E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8367C768-2968-4385-B5A8-64827ABD82E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8367C768-2968-4385-B5A8-64827ABD82E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
